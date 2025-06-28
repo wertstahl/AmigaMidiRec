@@ -1,4 +1,4 @@
-Usecase : you just need to have that file sent over to the amiga, and you have MIDI. 
+Usecase : you just need to have that file sent over to the Amiga, and you have MIDI. 
 You do not want to swap floppies, you don't have disks or any other connection to the Amiga.
 
 1. On the Amiga side make sure you have enough RAM. like 2 MB and more. 
