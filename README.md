@@ -1,5 +1,5 @@
-Usecase : you just need to have that file sent over to the Amiga, and you have MIDI.<br> 
-You do not want to swap floppies, you don't have disks or any other connection to the Amiga.
+<b>Usecase :</b> <i>you need to have that file sent over to the Amiga, and you have MIDI.<br> 
+You do not want to swap floppies, you don't have disks or any other connection to the Amiga.</i>
 
 1. On the Amiga side make sure you have enough RAM. Like 2 MB and more. <br>
    <b>! Somehow you manage to get MidiRecieveToRam.exe on a Workbench 3.1 disk with serial.device to work on your Amiga. </b>
