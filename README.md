@@ -2,7 +2,7 @@ Usecase : you just need to have that file sent over to the amiga, and you have M
 You do not want to swap floppies, you don't have disks or any other connection to the Amiga.
 
 1. On the Amiga side make sure you have enough RAM. like 2 MB and more. 
-2. You start MidiRecieveToRam.exe (from MIDIRECE.LHA) on your Amiga and have
+2. You start MidiRecieveToRam.exe (from MIDIRECE.LHA) on your Amiga and have<br>
    <b>a Midi interface that connects your Amiga MIDI IN <-- to your PC MIDI OUT --> </b>
 3. you drag and drop any file you want to send to the Amiga on the python script midi_to_amiga_final_dnd.py
 4. select your Midi output device on the PC side, confirm, and ... wait for quite some time ...
