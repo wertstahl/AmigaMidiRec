@@ -1,3 +1,5 @@
+<b>AmigaMidiRec - Transfer File from any OS to Amiga via MIDI</b>
+
 <b>Usecase :</b> <i>you need to have that file sent over to the Amiga, and you have MIDI.<br> 
 You do not want to swap floppies, you don't have disks or any other connection to the Amiga.</i>
 
