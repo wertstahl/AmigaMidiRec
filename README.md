@@ -19,7 +19,7 @@ You do not want to swap floppies, you don't have disks or any other connection t
 <br>
 (any OS) PC Side prerequisites:<br>
 Python: https://www.python.org/downloads/ --> 3.10<br>
-pip install <br>
+pip install: <br>
 rtmidi<br>
 os<br>
 time<br>
