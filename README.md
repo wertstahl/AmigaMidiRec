@@ -55,12 +55,12 @@ with this you can modify the Amiga (receiver side) to your preference.<br>
 <br>
 NOTE: this was only tested on real hardware. No idea if a loopback from WINUAE to local OS actually works. If you had any success with that, let me know.<br>
 <br>
-<b>QUICK START: The files you would most likely want to try out are:<br>
+<b>QUICK START: The files you would most likely want to try out are:<br><b>
 https://github.com/wertstahl/AmigaMidiRec/blob/main/Amiga_Boot_Disk/MIDIGETWB13.DMS<br>
 (Amiga client, write this to an Amiga Floppy, boot from it and start the executable <i>MidiRecieveToRam.exe</i> first<br>
 - have your Midi cables connected from PC-->Midi-out to Amiga-->Midi-in !)<br>
 and https://github.com/wertstahl/AmigaMidiRec/blob/main/Send_Script_PY3/midi_to_amiga_final_dnd.py<br>
 (drag and drop any file on this on your system after you have installed all the periquisites<br>
 and only after starting the client on your Amiga)<br>
-</b><br>
+<br>
 Party like it's 1992!<br>
