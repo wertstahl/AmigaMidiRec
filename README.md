@@ -15,6 +15,7 @@ overwritten without asking (not a big deal). This is just a for-fun project, but
 And it is faster with <500kb files, than writing a floppydisk on your PC and then reading that floppydisk on the Amiga.<br>
 ! Warning: 1.6 MB take about 10-11 Minutes, just so you have been informed. <br>
 <br></b>
+<b>Howto:</b><br>
 1. On the Amiga side make sure you have enough RAM. Like 2 MB and more. <br>
 2. <b>! Somehow you manage to get MidiRecieveToRam.exe on a Workbench 3.1 disk with serial.device <br>
    to work on your Amiga or just write the included DMS to a floppy and boot from that.  </b> <br>
