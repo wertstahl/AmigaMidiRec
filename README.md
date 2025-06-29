@@ -1,5 +1,11 @@
 <b>AmigaMidiRec - Transfer File from any OS to Amiga via MIDI</b><br>
 <br>
+This transfer method is slow but uses very affordable components. It is slow<br>
+because MIDI transfer is hardwired to 1983 standards:<br>
+Midi is fixed to 31520 Bauds. 31,250 bits per second (31.25 kbit/s) minus some pause every 242 bytes.<br>
+https://en.wikipedia.org/wiki/MIDI <br>
+<br>
+<br>
 <b>Usecase :</b> <i>you need to have that file sent over to the Amiga, and you have MIDI.<br> 
 You do not want to swap floppies, you don't have disks or any other connection to the Amiga.</i><br>
 <br>
