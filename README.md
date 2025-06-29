@@ -16,18 +16,19 @@ And it is faster with <500kb files, than writing a disk on your PC and then read
 1.6 MB take about 10-11 Minutes, just so you have been informed. <br>
 <br></b>
 1. On the Amiga side make sure you have enough RAM. Like 2 MB and more. <br>
-   <b>! Somehow you manage to get MidiRecieveToRam.exe on a Workbench 3.1 disk with serial.device to work on your Amiga. </b>
-2. You start MidiRecieveToRam.exe (from MIDIRECE.LHA) on your Amiga and have<br>
+2. <b>! Somehow you manage to get MidiRecieveToRam.exe on a Workbench 3.1 disk with serial.device <br>
+   to work on your Amiga or just write the included DMS to a floppy and boot from that.  </b> <br>
+3. You start MidiRecieveToRam.exe (from MIDIRECE.LHA) on your Amiga and have<br>
    <b>a Midi interface that connects your Amiga MIDI IN <-- to your PC MIDI OUT --> </b>
-3. you drag and drop any file you want to send to the Amiga on the python script midi_to_amiga_final_dnd.py<br>
-4. select your Midi output device on the PC side, confirm, and ... wait for quite some time ...<br>
-5. Amiga side should show # chunk progress.<br>
-6. Very patiently wait for everything to unfold, it will take alot of time (15 minutes for 1,6 MB)<br>
-7. When done, check your Amiga RAM: disk, file should be there, test it, though! There is no error correction.<br>
-8. This is experimental software just for the fun of it. Use at your own risk.<br>
-9. Don't use it if you don't know what you're doing.<br>
-10. Modify all the things to your preferences, MIDIRECE.LHA contains the precompiled exe for Amiga1200, MIDIRECB.LHA contains the Blitz2 Source files.<br>
-11. midi_to_amiga_final_dnd.py is a Python 3 Script that requires:<br>
+4. you drag and drop any file you want to send to the Amiga on the python script midi_to_amiga_final_dnd.py<br>
+5. select your Midi output device on the PC side, confirm, and ... wait for quite some time ...<br>
+6. Amiga side should show # chunk progress.<br>
+7. Very patiently wait for everything to unfold, it will take alot of time (15 minutes for 1,6 MB)<br>
+8. When done, check your Amiga RAM: disk, file should be there, test it, though! There is no error correction.<br>
+9. This is experimental software just for the fun of it. Use at your own risk.<br>
+10. Don't use this software if you don't know what you're doing, i cannot give support.<br>
+11. Modify all the things to your preferences, /Amiga_Source contains the Blitz2 Source files.<br>
+12. midi_to_amiga_final_dnd.py is a Python 3 Script that requires:<br>
 <br>
 (any OS) PC Side prerequisites:<br>
 Python: https://www.python.org/downloads/ --> 3.10<br>
