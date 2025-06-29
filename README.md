@@ -33,7 +33,7 @@ with this you can modify the Amiga (receiver side) to your preference.<br>
 (c)6/2025 by S.I.Hartmann aka WS, based on code by Claude Heiland-Allen https://mathr.co.uk/amiga/<br>
 <br>
 NOTE: this was only tested on real hardware. No idea if a loopback from WINUAE to local OS actually works. If you had any success with that, let me know.<br>
-NOTE2: The files you would most likely want to try out are https://github.com/wertstahl/AmigaMidiRec/blob/main/MIDIGETWB13.DMS (Amiga client, start this first)<br>
-and https://github.com/wertstahl/AmigaMidiRec/blob/main/midi_to_amiga_final_dnd.py (drag any file on this on your system after you have installed all the periquisites)<br>
+NOTE2: The files you would most likely want to try out are [https://github.com/wertstahl/AmigaMidiRec/blob/main/MIDIGETWB13.DMS](https://github.com/wertstahl/AmigaMidiRec/tree/main/Amiga_Boot_Disk) (Amiga client, start this first)<br>
+and [https://github.com/wertstahl/AmigaMidiRec/blob/main/midi_to_amiga_final_dnd.py](https://github.com/wertstahl/AmigaMidiRec/tree/main/Send_Script_PY3) (drag any file on this on your system after you have installed all the periquisites)<br>
 <br>
 Party like it's 1992!<br>
