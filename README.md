@@ -47,7 +47,7 @@ sys<br>
 msvcrt  (perhaps only on Windows PCs) <br>
 mouse<br>
 <br>
-If you like to code: Amiga Blitz Basic2: https://archive.org/details/ultimate-blitz-basic-v2_1<br>>/b>
+If you like to code: Amiga Blitz Basic2: https://archive.org/details/ultimate-blitz-basic-v2_1<br></b>
 with this you can modify the Amiga (receiver side) to your preference.<br>
 <br>
 <br>
