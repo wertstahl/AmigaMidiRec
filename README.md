@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/MIDI <br>
 <br>
 <br>
 <b>#USECASE:</b> <i>You need to have ${{\color{Lightgreen}{\textit that\ file}}}$ sent over to the Amiga, and you have MIDI interfaces, hardware. <br>
-You do not want to swap floppies, you don't want or cannot use floppies or any other connection to the Amiga.</i><br>
+You do not want to swap floppies, or you don't want or cannot use floppies or any other connection to the Amiga.</i><br>
 <br>
 <br>
 <b>#DISCLAIMER: This is experimental software, use at your own risk. Files in the Amiga RAM: Disk will be<br>
