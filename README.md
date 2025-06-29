@@ -22,7 +22,7 @@ And it is faster with <500kb files, than writing a floppydisk on your PC and the
    Just copying the file to the disk won't do, you'll need DMS <br>
    (use UAE or https://www.aminet.net/package/util/arc/dmsgui18 and https://www.aminet.net/package/util/arc/dms111)<br>
    DirOpus (Dopus) should also be able to write DMS images to Floppydisk.<br>
-   If you have a pre Windows 7 PC with floppy drive, maybe Omniflop can do the job:<br>
+   If you have a pre Windows 7 PC with non-usb hardware floppy drive, maybe Omniflop can do the job:<br>
    https://www.youtube.com/watch?v=F7fSqi6QCyQ<br> 
    http://www.shlock.co.uk/Utils/OmniFlop/OmniFlop.htm<br>
 3. On the Amiga you start MidiRecieveToRam.exe  - and on your Amiga you also have<br>
