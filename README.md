@@ -6,7 +6,7 @@ Midi is fixed to 31520 Bauds. 31,250 bits per second (31.25 kbit/s) minus some p
 https://en.wikipedia.org/wiki/MIDI <br>
 <br>
 <br>
-<b>#USECASE:</b> <i>you need to have ${{\color{Lightgreen} {\textsf \textit{ that\ file\ \}}}}\$ sent over to the Amiga, and you have MIDI interfaces, hardware.<br> 
+<b>#USECASE:</b> <i>you need to have <span style="color:LightGreen;"><i>that file</i></span> sent over to the Amiga, and you have MIDI interfaces, hardware.<br> 
 You do not want to swap floppies, you don't want or cannot use floppies or any other connection to the Amiga.</i><br>
 <br>
 <br>
