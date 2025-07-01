@@ -19,8 +19,10 @@
 ;
 ;-----------------------------------------------------------------------------
 ;
-; if you reenable any debug functions, make sure to noticeably increase wait times
-; on the python script. also do so, if you run this bb2 with debugger=ON
+; [if you reenable any debug functions, make sure to noticeably increase wait times
+; on the python script. also do so, if you run this bb2 with debugger=ON]
+;
+; NOTE: all debug functions have been removed from this ascii conversion of the sourcecode!
 ;
 ; i don`t fashioncode, i am just old-school, lazy and stubborn
 ; if you don`t like it - don`t use it.
