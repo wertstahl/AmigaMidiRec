@@ -64,3 +64,7 @@ and https://github.com/wertstahl/AmigaMidiRec/blob/main/Send_Script_PY3/midi_to_
 and only after starting the client on your Amiga)<br>
 <br>
 Party like it's 1992!<br>
+<br>
+License : https://creativecommons.org/licenses/by-nc/4.0/ <br>
+CC BY-NC 4.0<br>
+<br>
