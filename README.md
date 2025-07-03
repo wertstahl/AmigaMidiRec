@@ -64,4 +64,4 @@ and https://github.com/wertstahl/AmigaMidiRec/blob/main/Send_Script_PY3/midi_to_
 (drag and drop any file on this on your system after you have installed all the periquisites<br>
 and only after starting the client on your Amiga)<br>
 <br>
-Party like it's 1992!<br>
+Party like it's 1994!<br>
