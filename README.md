@@ -1,4 +1,5 @@
 <b>AmigaMidiRec - Transfer File from any OS to Amiga via MIDI -- easy drag and drop</b><br>
+License : CC BY-NC 4.0 -- https://creativecommons.org/licenses/by-nc/4.0/ <br>
 <br>
 <b>#INFO:</b> This transfer method is slow but uses very affordable components. It is slow<br>
 because MIDI transfer is hardwired to 1983 standards:<br>
@@ -64,7 +65,3 @@ and https://github.com/wertstahl/AmigaMidiRec/blob/main/Send_Script_PY3/midi_to_
 and only after starting the client on your Amiga)<br>
 <br>
 Party like it's 1992!<br>
-<br>
-License : https://creativecommons.org/licenses/by-nc/4.0/ <br>
-CC BY-NC 4.0<br>
-<br>
