@@ -1,4 +1,4 @@
-<b>AmigaMidiRec - Transfer File from any OS to Amiga via MIDI -- easy drag and drop</b><br>
+<b>AmigaMidiRec</b><i>ieve</i><b> - Transfer File from any OS to Amiga via MIDI -- easy drag and drop</b><br>
 License : CC BY-NC 4.0 -- https://creativecommons.org/licenses/by-nc/4.0/ <br>
 <br>
 <b>#INFO:</b> This transfer method is slow but uses very affordable components. It is slow<br>
