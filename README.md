@@ -42,7 +42,7 @@ ${\color{Lightgreen}{\textbf{\textit{TRANSFER TIME INFO: for example, 1.6 MB tak
 12. Modify all the parameters to your preferences, if transfers make trouble, maybe increasing the sleep time CHUNK_GAP_SEC of the py script to 0.025 or 0.05 helps (which slows down the transfer).<br>
 13. midi_to_amiga_final_dndV03.py is a Python 3 Script that requires:<br>
 <br>
-<b>#<i>(any OS) PC Side></i> PRERIQUISITES:<br>
+<b>#</b><i>(any OS) PC Side</i> <b>PRERIQUISITES:</b><br>
 Python: https://www.python.org/downloads/ --> 3.10<br>
 also <b>pip install</b>: <br>
 rtmidi<br>
@@ -51,7 +51,7 @@ time<br>
 sys<br>
 msvcrt  (only on Windows PCs) <br>
 <br>
-If you like to code: Amiga Blitz Basic2: https://archive.org/details/ultimate-blitz-basic-v2_1<br></b>
+If you like to code: Amiga Blitz Basic2: https://archive.org/details/ultimate-blitz-basic-v2_1<br>
 with this you can modify the Amiga (receiver side) to your preference.<br>
 <br>
 <br>
