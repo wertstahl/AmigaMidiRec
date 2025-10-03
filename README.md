@@ -14,7 +14,7 @@ You do not want to swap floppies, or you don't want or cannot use floppies or an
 <b>#DISCLAIMER: This is experimental software, use at your own risk. Files in the Amiga RAM: Disk will be<br>
 overwritten without asking (not a big deal). This is just a for-fun project, but it can be pretty helpful.<br>
 And it is faster with <500kb files, than writing a floppydisk on your PC and then reading that floppydisk on the Amiga.<br>
-! Warning: 1.6 MB take about 15 Minutes, just so you have been informed. <br>
+TRANSFER TIME INFO: for example, 1.6 MB take about 9 Minutes <br>
 <br></b>
 <b>#HOWTO:</b><br>
 1. On the Amiga side make sure you have enough RAM. Like 2 MB and more (larger than what you want to transfer...). <br>
