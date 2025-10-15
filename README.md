@@ -1,5 +1,6 @@
 <b>AmigaMidiRec</b><i>ieve</i><b> - Transfer File from any OS to Amiga via MIDI -- easy drag and drop</b><br>
 License : CC BY-NC 4.0 -- https://creativecommons.org/licenses/by-nc/4.0/ <br>
+Confirmed working with all Amigas from Kick 1.3 to Kick 3.2 (compatibility reports welcome)<br>
 <br>
 <b>#INFO:</b> This transfer method is slow but uses very affordable components. It is slow<br>
 because MIDI transfer is hardwired to 1983 standards:<br>
