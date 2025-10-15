@@ -30,19 +30,19 @@ ${\color{Lightgreen}{\textbf{\textit{TRANSFER TIME INFO: for example, 1.6 MB tak
    You can ofcourse just copy the amiga exe to a PC floppy disk, and insert that into your Amiga - if it is able to read PC disks,<br>
    which you can easily find out if you try and format a floppy on the amiga. There should be a crossdos/PC Disk option.<br>
    <br>
-4. On the Amiga you start MidiRecieveToRamV03.exe  - and on your Amiga you also have<br>
+3. On the Amiga you start MidiRecieveToRamV03.exe  - and on your Amiga you also have<br>
    <b>a Midi interface that connects your Amiga MIDI IN <-- to your PC MIDI OUT --> </b>
-5. Over on your PC you drag and drop any file you want to send to the Amiga on the python script midi_to_amiga_final_dndV03.py<br>
+4. Over on your PC you drag and drop any file you want to send to the Amiga on the python script midi_to_amiga_final_dndV03.py<br>
    I would recommend lha, lzx or zip files, given the amiga tools are present to decompress them, because that way you can easily check file integrity.<br>
    Also, make sure that the file you're sending is in the same directory as the .py script, try this configuration if you get any errors.<br>
-6. Select your Midi output device on the PC side, confirm, and ... wait for quite some time ...<br>
-7. Amiga side should show file name confirmation, expected chunks and a progress counter.<br>
-8. With very lowered expectations wait for everything to unfold, it will take quite some time (15 minutes for 1,6 MB)<br>
-9. When done, check your Amiga RAM: disk, file will be there. Test it! There is no error correction.<br>
-10. Again: this is experimental software just for the fun of it. Use at your own risk.<br>
-11. Don't use this software if you don't know what you're doing, no shirt, no shoes, no support.<br>
-12. Modify all the parameters to your preferences, if transfers make trouble, maybe increasing the sleep time CHUNK_GAP_SEC of the py script to 0.025 or 0.05 helps (which slows down the transfer).<br>
-13. midi_to_amiga_final_dndV03.py is a Python 3 Script that requires:<br>
+5. Select your Midi output device on the PC side, confirm, and ... wait for quite some time ...<br>
+6. Amiga side should show file name confirmation, expected chunks and a progress counter.<br>
+7. With very lowered expectations wait for everything to unfold, it will take quite some time (15 minutes for 1,6 MB)<br>
+8. When done, check your Amiga RAM: disk, file will be there. Test it! There is no error correction.<br>
+9. Again: this is experimental software just for the fun of it. Use at your own risk.<br>
+10. Don't use this software if you don't know what you're doing, no shirt, no shoes, no support.<br>
+11. Modify all the parameters to your preferences, if transfers make trouble, maybe increasing the sleep time CHUNK_GAP_SEC of the py script to 0.025 or 0.05 helps (which slows down the transfer).<br>
+12. midi_to_amiga_final_dndV03.py is a Python 3 Script that requires:<br>
 <br>
 <b>#</b><i>(any OS) PC Side</i> <b>PRERIQUISITES:</b><br>
 Python: https://www.python.org/downloads/ --> 3.10<br>
