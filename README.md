@@ -33,6 +33,7 @@ ${\color{Lightgreen}{\textbf{\textit{TRANSFER TIME INFO: for example, 1.6 MB tak
 4. On the Amiga you start MidiRecieveToRamV03.exe  - and on your Amiga you also have<br>
    <b>a Midi interface that connects your Amiga MIDI IN <-- to your PC MIDI OUT --> </b>
 5. Over on your PC you drag and drop any file you want to send to the Amiga on the python script midi_to_amiga_final_dndV03.py<br>
+   I would recommend lha, lzx or zip files, given the amiga tools are present to decompress them, because that way you can easily check file integrity.<br>
 6. Select your Midi output device on the PC side, confirm, and ... wait for quite some time ...<br>
 7. Amiga side should show file name confirmation, expected chunks and a progress counter.<br>
 8. With very lowered expectations wait for everything to unfold, it will take quite some time (15 minutes for 1,6 MB)<br>
