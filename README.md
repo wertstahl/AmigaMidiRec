@@ -4,7 +4,7 @@ Confirmed working with all Amigas from Kick 1.3 to Kick 3.2 (compatibility repor
 <br>
 <b>#INFO:</b> This transfer method is slow but uses very affordable components. It is slow<br>
 because MIDI transfer is hardwired to 1983 standards:<br>
-Midi is fixed to 31520 Bauds. 31,250 bits per second (31.25 kbit/s) minus some pause every 242 bytes.<br>
+Midi is fixed to 31250 Bauds. 31,250 bits per second (31.25 kbit/s) minus some pause every 242 bytes.<br>
 https://en.wikipedia.org/wiki/MIDI <br>
 <br>
 <br>
